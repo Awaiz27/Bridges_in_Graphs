@@ -7,10 +7,10 @@ A **bridge** in a graph is an edge that, when removed, increases the number of c
 
 ## 🖥️ Algorithm Explanation
 We use **Tarjan’s Algorithm** to compute **discovery times** and **low-link values** for each node during a **DFS traversal**. An edge **(u, v)** is identified as a **bridge** if:
-\[
-\text{low}[v] > \text{disc}[u]
-\]
-This means node \( v \) cannot reach an ancestor of \( u \), indicating that **removing (u, v) disconnects the graph**.
+
+                low[v] > disc[u]
+
+This means node v cannot reach an ancestor of u, indicating that **removing (u, v) disconnects the graph**.
 
 ### **Time Complexity:**  
 - **DFS Traversal:** \( O(V + E) \)
