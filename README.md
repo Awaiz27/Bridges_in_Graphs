@@ -64,5 +64,8 @@ Below are the test case results visualized:
 ### **Figure 3: Test Case 3**
 <img src="images/Figure_3.png" alt="Figure 3" width="500"/>
 
+### **Figure 4: Test Case 4**
+<img src="images/Figure_4.png" alt="Figure 3" width="500"/>
+
 ----
 
