@@ -56,13 +56,13 @@ def findBridges(graph, n):
 Below are the test case results visualized:
 
 ### **Figure 1: Test Case 1**
-<img src="images/figure1.png" alt="Figure 1" width="500"/>
+<img src="images/Figure_1.png" alt="Figure 1" width="500"/>
 
 ### **Figure 2: Test Case 2**
-<img src="images/figure2.png" alt="Figure 2" width="500"/>
+<img src="images/Figure_2.png" alt="Figure 2" width="500"/>
 
 ### **Figure 3: Test Case 3**
-<img src="images/figure3.png" alt="Figure 3" width="500"/>
+<img src="images/Figure_3.png" alt="Figure 3" width="500"/>
 
 ----
 
