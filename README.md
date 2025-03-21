@@ -51,15 +51,18 @@ def findBridges(graph, n):
 
     bridges.sort()  
     return bridges
+```
+## **Figures**
+Below are the test case results visualized:
 
-## Figures
+### **Figure 1: Test Case 1**
+<img src="images/figure1.png" alt="Figure 1" width="500"/>
 
-### Figure 1: Test Case 1
-![Figure 1](images/figure1.png)
+### **Figure 2: Test Case 2**
+<img src="images/figure2.png" alt="Figure 2" width="500"/>
 
-### Figure 2: Tese Case 2
-![Figure 2](images/figure2.png)
+### **Figure 3: Test Case 3**
+<img src="images/figure3.png" alt="Figure 3" width="500"/>
 
-### Figure 3: Test Case 3
-![Figure 3](images/figure3.png)
+----
 
